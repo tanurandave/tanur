@@ -48,7 +48,7 @@ const tanuja = {
 ## 🏅 Achievements & Certifications
 
 - 🥇 1st Place – National-Level Project Competition  
-- 📜 Java Programming with JDBC – Certificate  
+- 📜 Java Programming with JDBC – Aptech
 
 - 🥇 **Best Poster Award – Techno-Societal 2024**  
   _For “Event Planning Management” at SVERI, Pandharpur_
