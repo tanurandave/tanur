@@ -1,4 +1,3 @@
-# tanur
 # Hi there! 👋 I'm Tanuja Randave
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;Full-Stack+Web+%26+Java+Developer;AI+Project+Builder+%7C+Tech+Enthusiast" alt="Typing SVG" />
